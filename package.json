@@ -2,7 +2,7 @@
   "name": "lcel",
   "version": "1.0.0",
   "main": "index.js",
-  "type":"module",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,6 +13,7 @@
   "dependencies": {
     "@langchain/core": "^0.3.13",
     "@langchain/ollama": "^0.1.0",
-    "langchain": "^0.3.2"
+    "langchain": "^0.3.2",
+    "openai": "^4.68.4"
   }
 }
